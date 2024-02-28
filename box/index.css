@@ -3,6 +3,7 @@
 {
 body{
     background-color:azure;
+    font-family: "poppins";
 }
 #imgn{
     width: 112px;
@@ -457,6 +458,7 @@ footer a:hover{
 {
 body{
       background-color:azure;
+      font-family: "poppins";
 }
 #imgn{
     width: 130px;
@@ -509,7 +511,7 @@ button:hover{
     padding-left: 10px;
     display: flex;
     height: 20px;
-    width: 295px;
+    width: 350px;
     color:#41beff;
     height: 22px;
     padding-top: 2px;
@@ -694,8 +696,8 @@ span{
 }
 #pu1{
     margin-bottom: 100px;
-    width: 500px;
-    height: 500px;
+    width: 510px;
+    height: 495px;
     background-color: #ffffff;
     margin-top: -200px;
     border-top-left-radius: 15px;
@@ -709,7 +711,7 @@ span{
     }
     #pu1 img{
         width: 500px;
-        height: 300px;
+        height: 250px;
         padding-top: -300px;
         padding-right: 70px;
     }
@@ -728,9 +730,9 @@ span{
     }
     #purt{
         width: 500px;
-        height: 510px;
+        height: 540px;
         background-color: #ffffff;
-        margin-top: -600px;
+        margin-top: -640px;
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
         border-bottom-left-radius: 15px;
@@ -785,31 +787,37 @@ span{
     }
     #pur2{
         width: 280px;
-        height: 240px;
+        height: 300px;
         background-color: #ffffff;
         margin-bottom: -270px;
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
         border-bottom-left-radius: 15px;
         border-bottom-right-radius: 15px;
-        margin-top: 200px;
-        
+        margin-bottom: -330px;
+        border-top: solid blue;
+    }
+    #pur2 p{
+        margin-top: 30px;
     }
     #pur3{
         width: 280px;
-        height: 250px;
+        height: 300px;
         background-color: #ffffff;
         margin-bottom: -200px;
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
         border-bottom-left-radius: 15px;
         border-bottom-right-radius: 15px;
-        margin-left: 500px;
-    
+        margin-left: 470px;
+        border-top: solid red;
+    }
+    #pur3 p{
+        margin-top: -30px;
     }
     #pur4v{
         width: 280px;
-        height: 250px;
+        height: 300px;
         background-color: #ffffff;
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
@@ -818,10 +826,26 @@ span{
         border-top-color: 10px solid orangered;
         float: right;
         margin-top: 35px;
-    
     }
     #pur4{
-        display: none;
+           width: 280px;
+        height: 300px;
+        background-color: #ffffff;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        border-top-color: 10px solid orangered;
+        float: right;
+        margin-top: 35px;
+        margin-right: 60px;
+        border-top: solid yellow;
+    }
+    #pur4 h3{
+        font-size: 25px;
+    }
+    #pur4 p{
+        margin-top: -35px;
     }
     .mer p{
         font-size: 20px;
@@ -843,15 +867,16 @@ span{
     }
     #ag1{
         width: 300px;
-        height: 250px;
+        height: 300px;
         background-color: #ffffff;
         margin-top: 30px;
         padding: 15px;
         margin-left: 30px;
+        margin-bottom: -50px;
     }
     #ag2{
         width: 300px;
-        height: 250px;
+        height: 300px;
         background-color: #ffffff;
         margin-top: 20px;
         padding: 15px;
@@ -862,7 +887,7 @@ span{
     }
     #ag3{
         width: 300px;
-        height: 250px;
+        height: 300px;
         background-color: #ffffff;
         margin-top: 20px;
         padding: 15px;
@@ -871,7 +896,7 @@ span{
     }
     #ag4{
         width: 300px;
-        height: 250px;
+        height: 300px;
         background-color: #ffffff;
         margin-top: 50px;
         padding: 15px;
@@ -935,6 +960,9 @@ footer ul{
     font-size: 20px;
     list-style: none;
 }
+footer li{
+    padding: 10px;
+}
 footer h5{
     color: #ffffff;
     font-size: 20px;
@@ -955,20 +983,20 @@ footer a:hover{
 }
 .f1{
     margin-left: 320px;
-    padding: 10px;
-    margin-top: -120px;
+    margin-top: -100px;
+    margin-bottom: -40px;
 }
 .f2{
     margin-left: 520px;
-    margin-top: -235px;
+    margin-top: -355px;
 }
 .f3{
     margin-left: 750px;
-    margin-top: -230px;
+    margin-top: -350px;
 }
 .f4{
     margin-left: 950px;
-    margin-top: -225px;
+    margin-top: -350px;
 }
 .imgone3{
 margin-left: 800px;
